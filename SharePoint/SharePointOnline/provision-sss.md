@@ -278,7 +278,7 @@ Assign a few site owners to grant administrative privileges to customize the sit
 
 1. From the M365 learning pathways site menu select **Settings**, then select **Site permissions**
 2. Select **Advanced Permission Settings**.
-3. Select **SharePoint Success Site Owners**.
+3. Select **\<Site Name\> Site Owners**.
 4. Select **New > Add Users to this group**, and then add the people you want to be site owners.
 5. Include a link to **Explore the site** in the sharing message, and then select **Share**.
 
